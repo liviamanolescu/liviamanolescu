@@ -16,3 +16,11 @@ Servidor como sistema tem vários sinônimos. Provedor de aplicação = fornece 
 4.	Crie uma conta e um repositório no GITHUB
 Conta feita   e o professor foi incluído como membro. 
 GITHUB: versionamento dos arquivos do projeto. Criar versões 
+Trabalho 2 dia 21/02/24:
+a. A relação entre a LGPD e os Data Centers no Brasil: Nesse sentido, a LGPD estabelece, ainda, que não importa se a sede de uma organização ou o seu Data Center estão localizados no Brasil ou no exterior, ou ainda se os dados são tratados no meio físico ou nos digitais: todos estão sujeitos à regulação.
+b. Formatos de arquivos de dados proprietários e abertos: Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+b.1 forneça exemplos de formatos:
+Formatos de arquivos de  proprietários: DOC - Microsoft Word Document, DWG - AutoCad Drawing, MP3 - MPEG Audio Layer 3.
+Formatos de arquivos de  abertos: OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório),LaTeX (uma linguagem de documentação), Json (uma linguagem de documentação), EPUB (formato de arquivo digital), DVI (uma linguagem para descrição de página)
+b.2 discuta as implicações relacionadas a dados públicos: Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos.
+2 – Inclua seus comentários no arquivo de texto NO github:  feito
