@@ -1,2 +1,18 @@
 Teste arquivo texto na aula dia 21/02/24
 Incluir novo texto 
+Modificar de novo
+1. Forneça a definição o termo ARQUIVO, no contexto da computação: 
+Arquivo é um conjunto de dados que você dar um nome.
+1.1	O que é um arquivo DE TEXTO?
+A cada codificação de números, sempre um caráter. Universal, pois, todos conseguem ler. 
+2.	Explique o que é uma VARIÁVEL, no contexto da programação de computadores:
+Caixinha que recebe um valor, um nome que recebe um valor, é um espaço na memória. 
+As coisas representam mais de uma coisa na informática. Existem um nível de relativização. Caixinha é mais abstrata que o nome
+Abstrato: mais difícil conceituar 
+Concreto:  consegue pegar 
+3.	Explique o que seria um SERVIDOR, no contexto da computação:
+Computador ou programa. Servidor de e-mail não é um 
+Servidor como sistema tem vários sinônimos. Provedor de aplicação = fornece sistema. 
+4.	Crie uma conta e um repositório no GITHUB
+Conta feita   e o professor foi incluído como membro. 
+GITHUB: versionamento dos arquivos do projeto. Criar versões 
