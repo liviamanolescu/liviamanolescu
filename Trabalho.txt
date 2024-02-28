@@ -24,3 +24,28 @@ Formatos de arquivos de  proprietários: DOC - Microsoft Word Document, DWG - Au
 Formatos de arquivos de  abertos: OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório),LaTeX (uma linguagem de documentação), Json (uma linguagem de documentação), EPUB (formato de arquivo digital), DVI (uma linguagem para descrição de página)
 b.2 discuta as implicações relacionadas a dados públicos: Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos.
 2 – Inclua seus comentários no arquivo de texto NO github:  feito
+Exercicio dia 28/02/24: Explique as diferenças entre 3 linguagens de programação: 
+https://www.blip.ai/blog/devs/linguagens-de-programacao/
+•	Java: portável e escalável. É a base de diversos sistemas, como o Android. Tem uma comunidade forte e extensa. Muitas empresas ainda têm sistemas desenvolvidos em Java, fazendo que a procura por profissionais que saibam a linguagem ainda seja considerável.
+•	JavaScript: pode ser usada tanto no front quanto no back-end, sendo umas das linguagens mais versáteis. É a linguagem majoritária para desenvolvimento web e dificilmente um programador não terá contato com ela alguma vez na vida no mercado de trabalho.
+•	C#: portável e simples. Desenvolvida e mantida pela Microsoft, é uma linguagem muito conhecida e fortíssima no cenário de desenvolvimento de jogos. Baseada nas linguagens C++, Java e Object Pascal.
+•	Python: é considerada uma das linguagens mais fáceis, quando não a mais fácil de aprender. Com uma sintaxe simples e extremamente legível, torna o desenvolvimento menos verboso. Apesar de não ter tido Machine Learning e Extração de Dados como objetivos ao ser criada, ganhou muita força nessas áreas nos últimos anos.
+•	Ruby: Sintaxe simples e fácil. Inspirada em linguagens como Perl, Smalltalk, Eiffel, Ada e Lisp, tem como objetivo pegar o melhor dos dois mundos da programação funcional e da programação imperativa. Muito popular entre as startups, é famosa por ser usada em aplicações mundialmente reconhecidas, como Airbnb, Twitter e GitHub.
+•	Swift: open-source e de sintaxe simples. Tem como antecessor o Objective-C. Se o seu objetivo é se aventurar no mundo do desenvolvimento de softwares para a Apple, Swift é o seu melhor caminho.
+
+a. Tente fazer um código mínimo em cada uma delas 
+b. Tente executar o seu código 
+2 – Inclua seus comentários no arquivo de texto NO github
+
+/******************************************************************************
+                              Online C++ Compiler.
+               Code, Compile, Run and Debug C++ program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+#include <iostream>
+int main()
+{
+    std::cout<<"Hello World";
+    return 0;
+}
